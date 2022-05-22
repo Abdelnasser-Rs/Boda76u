@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Boda76u
-- 👀 I’m interested in ...css&html%java
+- 👀 I’m interested in ...css&html&java
 - 🌱 I’m currently learning .Web Design Css&html Java scrpt.
 - 💞️ I’m looking to collaborate on ... Web Desing 
 - 📫 How to reach me ...
